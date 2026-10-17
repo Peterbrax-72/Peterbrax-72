@@ -90,9 +90,9 @@ A utility to inspect connected network history and network details.
 
 ## Connect
 - GitHub: https://github.com/Peterbrax-72
-- LinkedIn: add your profile
-- Portfolio: add your website
-- Email: add your email
+- LinkedIn: https://www.linkedin.com/in/peter-baraka-231b7a389
+- Portfolio: pinchezmedia254.netlify.app
+- Email: sirpeterbarakaphilip@gmail.com
 
 ## Goals
 - Build more impactful products
