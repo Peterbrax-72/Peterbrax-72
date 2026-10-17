@@ -1,4 +1,4 @@
-# Hi, I'm Peter Brax 👋
+# Hi, I'm Pinchezmedia254 👋
 
 Software Developer from Kenya 🇰🇪 building practical tools, AI-assisted systems, and modern web experiences.
 
