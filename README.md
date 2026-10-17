@@ -91,8 +91,8 @@ A utility to inspect connected network history and network details.
 ## Connect
 - GitHub: https://github.com/Peterbrax-72
 - LinkedIn: https://www.linkedin.com/in/peter-baraka-231b7a389
-- Portfolio: pinchezmedia254.netlify.app
-- Email: sirpeterbarakaphilip@gmail.com
+- Portfolio: https://www.pinchezmedia254.netlify.app
+- Email: peterbrax25@gmail.com
 
 ## Goals
 - Build more impactful products
