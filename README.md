@@ -5,13 +5,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Peterbrax-72&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/Peterbrax-72?label=Followers&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Peterbrax-72?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Peterbrax-72/Peterbrax-72?style=flat&label=Issues)
 
 </div>
 
 Software developer from Kenya 🇰🇪 building practical tools, AI-assisted systems, and modern web experiences.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;Web+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
+
 ## About Me
-I enjoy building solutions that solve real problems — from cataloging and library systems to productivity apps, automation utilities, and media tools. I am passionate about continuous learning, open-source contribution, and creating software that is useful, clean, and impactful.
+I enjoy building solutions that solve real problems — from cataloging and library systems to productivity apps, automation utilities, and media tools. I’m passionate about continuous learning, open-source contribution, and creating software that is useful, clean, and impactful.
+
+I like turning ideas into working tools that help people work smarter, organize information, and automate repetitive tasks.
 
 ## Tech Stack
 
@@ -21,6 +28,7 @@ I enjoy building solutions that solve real problems — from cataloging and libr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -49,6 +57,13 @@ I enjoy building solutions that solve real problems — from cataloging and libr
 - Video/live capture tools
 - Property management prototypes
 - Utility apps and developer tools
+
+## Core Strengths
+- Product thinking and practical problem solving
+- Frontend interface design and user-centered UX
+- Backend utility and automation development
+- Data handling, scripting, and systems work
+- Building tools that simplify everyday workflows
 
 ## Featured Projects
 
@@ -94,6 +109,7 @@ A utility to inspect connected network history and network details.
 - Python and web development
 - Building useful developer tools
 - Improving GitHub visibility and contribution consistency
+- Exploring practical AI applications in real-world systems
 
 ## Open to
 - Open-source collaboration
@@ -123,5 +139,9 @@ A utility to inspect connected network history and network details.
 - Increase contributions to open-source projects
 - Get stronger visibility in the Kenyan developer community
 - Continue learning and shipping useful software
+- Create tools that solve meaningful everyday problems
+
+## Let's Build Something Useful
+I’m always open to collaboration, interesting ideas, and projects that make a difference. If you’re building something impactful, I’d love to connect.
 
 Made with ❤️ from Kenya 🇰🇪
