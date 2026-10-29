@@ -1,9 +1,9 @@
 # Hi, I'm Pinchezmedia254 👋
 
-Software Developer from Kenya 🇰🇪 building practical tools, AI-assisted systems, and modern web experiences.
+Software developer from Kenya 🇰🇪 building practical tools, AI-assisted systems, and modern web experiences.
 
 ## About Me
-I enjoy building solutions that solve real problems — from cataloging and library systems to productivity apps, streaming tools, and automation utilities. I am passionate about continuous learning, open source, and creating software that is useful, clean, and impactful.
+I enjoy building solutions that solve real problems — from cataloging and library systems to productivity apps, streaming tools, and automation utilities. I am passionate about continuous learning, open-source contribution, and creating software that is useful, clean, and impactful.
 
 ## Tech Stack
 ### Languages
